@@ -1,0 +1,3 @@
+buğra	vize notu : 80	final notu : 70	ortalama : 74.0
+ahmet	vize notu : 80	final notu : 80	ortalama : 80.0
+ali	vize notu : 80	final notu : 80	ortalama : 80.0

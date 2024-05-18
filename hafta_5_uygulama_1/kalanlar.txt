@@ -1,0 +1,2 @@
+sude	vize notu : 0	final notu : 40	ortalama : 24.0
+aynur	vize notu : 20	final notu : 13	ortalama : 15.8

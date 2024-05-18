@@ -1,0 +1,4 @@
+buğra	60	70
+buğra	50	60
+ahmey	90	80
+ali	80	90
